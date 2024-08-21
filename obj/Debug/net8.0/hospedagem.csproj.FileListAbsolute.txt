@@ -1,0 +1,14 @@
+C:\workspace\csharp\hospedagem\bin\Debug\net8.0\hospedagem.exe
+C:\workspace\csharp\hospedagem\bin\Debug\net8.0\hospedagem.deps.json
+C:\workspace\csharp\hospedagem\bin\Debug\net8.0\hospedagem.runtimeconfig.json
+C:\workspace\csharp\hospedagem\bin\Debug\net8.0\hospedagem.dll
+C:\workspace\csharp\hospedagem\bin\Debug\net8.0\hospedagem.pdb
+C:\workspace\csharp\hospedagem\obj\Debug\net8.0\hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\csharp\hospedagem\obj\Debug\net8.0\hospedagem.AssemblyInfoInputs.cache
+C:\workspace\csharp\hospedagem\obj\Debug\net8.0\hospedagem.AssemblyInfo.cs
+C:\workspace\csharp\hospedagem\obj\Debug\net8.0\hospedagem.csproj.CoreCompileInputs.cache
+C:\workspace\csharp\hospedagem\obj\Debug\net8.0\hospedagem.dll
+C:\workspace\csharp\hospedagem\obj\Debug\net8.0\refint\hospedagem.dll
+C:\workspace\csharp\hospedagem\obj\Debug\net8.0\hospedagem.pdb
+C:\workspace\csharp\hospedagem\obj\Debug\net8.0\hospedagem.genruntimeconfig.cache
+C:\workspace\csharp\hospedagem\obj\Debug\net8.0\ref\hospedagem.dll
